@@ -66,16 +66,6 @@ Our ecosystem connects software, infrastructure, and intelligence into a cohesiv
 
 ---
 
-### 📚 Standards & Guidelines
-
-All repositories and contributors within this organization adhere to our centralized engineering conventions:
-
-* 📘 **[Engineering Guidelines (`GUIDELINES.md`)](https://github.com/VINSIA-Dev/.github/blob/main/GUIDELINES.md)**: Architectural standards, API conventions, and design specifications.
-* 🤖 **[Autonomous AI Agent Rules (`AGENTS.md`)](https://github.com/VINSIA-Dev/.github/blob/main/AGENTS.md)**: Safety boundaries, minimal diff policies, and operational rules for AI-assisted development.
-* 📋 **[Copilot Instructions (`.github/copilot-instructions.md`)](https://github.com/VINSIA-Dev/.github/blob/main/.github/copilot-instructions.md)**: Workspace configurations and engineering conventions for editor assistants.
-
----
-
 ### 🔒 Security & Vulnerability Reporting
 
 Security is central to everything we build. If you discover a potential vulnerability within any VINSIA platform:
